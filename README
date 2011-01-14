@@ -1,0 +1,10 @@
+Image Grid Creator
+
+A small .NET app that takes in a folder of images and lets you create a square grid of them. You can rearrange and save the grid as a PNG or JPEG file.
+
+DOCUMENTATION
+http://intrepidstudios.com/projects/grid-creator/
+
+LICENSE
+This code is dual-licensed under MIT and GPL, just like jQuery.
+
